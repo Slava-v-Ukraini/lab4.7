@@ -1,9 +1,127 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Сторінка-1" id="ITKMXMR61Rg1sfLz_Md9">
-    <mxGraphModel>
+    <mxGraphModel dx="1235" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="N1tltookyPNAj-1mcNXm-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="N1tltookyPNAj-1mcNXm-1" target="N1tltookyPNAj-1mcNXm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1tltookyPNAj-1mcNXm-1" value="Початок" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="30" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N1tltookyPNAj-1mcNXm-5" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="N1tltookyPNAj-1mcNXm-2" target="N1tltookyPNAj-1mcNXm-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1tltookyPNAj-1mcNXm-2" value="xp, xk, dx, eps" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="347" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N1tltookyPNAj-1mcNXm-7" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="N1tltookyPNAj-1mcNXm-4" target="N1tltookyPNAj-1mcNXm-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1tltookyPNAj-1mcNXm-4" value="Табл." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="363.5" y="190" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N1tltookyPNAj-1mcNXm-9" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="N1tltookyPNAj-1mcNXm-6" target="N1tltookyPNAj-1mcNXm-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1tltookyPNAj-1mcNXm-6" value="x = xp" style="whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="347" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N1tltookyPNAj-1mcNXm-11" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="N1tltookyPNAj-1mcNXm-8" target="N1tltookyPNAj-1mcNXm-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1tltookyPNAj-1mcNXm-28" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="N1tltookyPNAj-1mcNXm-8" target="N1tltookyPNAj-1mcNXm-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="425" />
+              <mxPoint x="260" y="970" />
+              <mxPoint x="370" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1tltookyPNAj-1mcNXm-8" value="x&amp;lt;=xk" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="347" y="390" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="N1tltookyPNAj-1mcNXm-13" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="N1tltookyPNAj-1mcNXm-10" target="N1tltookyPNAj-1mcNXm-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1tltookyPNAj-1mcNXm-10" value="n=0;&lt;br&gt;a=2*x;&lt;div&gt;S=a;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="480" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N1tltookyPNAj-1mcNXm-15" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="N1tltookyPNAj-1mcNXm-12" target="N1tltookyPNAj-1mcNXm-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1tltookyPNAj-1mcNXm-12" value="n++" style="whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="500" y="570" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="N1tltookyPNAj-1mcNXm-19" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="N1tltookyPNAj-1mcNXm-14" target="N1tltookyPNAj-1mcNXm-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1tltookyPNAj-1mcNXm-14" value="R=&amp;nbsp;&lt;span style=&quot;font-size: 9.5pt; line-height: 106%; font-family: &amp;quot;Cascadia Mono&amp;quot;; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot; lang=&quot;EN-US&quot;&gt;(2 * x * x) / (2 * n + 1);&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 9.5pt; line-height: 106%; font-family: &amp;quot;Cascadia Mono&amp;quot;; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot; lang=&quot;EN-US&quot;&gt;a*=R;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 9.5pt; line-height: 106%; font-family: &amp;quot;Cascadia Mono&amp;quot;; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot; lang=&quot;EN-US&quot;&gt;S+=a;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="480" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N1tltookyPNAj-1mcNXm-17" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="N1tltookyPNAj-1mcNXm-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="775" />
+              <mxPoint x="640" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1tltookyPNAj-1mcNXm-22" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="N1tltookyPNAj-1mcNXm-16" target="N1tltookyPNAj-1mcNXm-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="775" />
+              <mxPoint x="440" y="840" />
+              <mxPoint x="540" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1tltookyPNAj-1mcNXm-16" value="x&amp;lt;=xk" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="480" y="740" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="N1tltookyPNAj-1mcNXm-18" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="500" y="398" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N1tltookyPNAj-1mcNXm-20" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="600" y="750" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N1tltookyPNAj-1mcNXm-25" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="N1tltookyPNAj-1mcNXm-21" target="N1tltookyPNAj-1mcNXm-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1tltookyPNAj-1mcNXm-21" value="Табл." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="490" y="870" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N1tltookyPNAj-1mcNXm-23" value="-" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="437" y="750" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N1tltookyPNAj-1mcNXm-26" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="N1tltookyPNAj-1mcNXm-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="985" />
+              <mxPoint x="680" y="380" />
+              <mxPoint x="410" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1tltookyPNAj-1mcNXm-24" value="x += dx" style="whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="495" y="960" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="N1tltookyPNAj-1mcNXm-31" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="N1tltookyPNAj-1mcNXm-27" target="N1tltookyPNAj-1mcNXm-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1tltookyPNAj-1mcNXm-27" value="&quot;_____________&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1040" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N1tltookyPNAj-1mcNXm-29" value="-" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="280" y="398" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N1tltookyPNAj-1mcNXm-30" value="Кінець" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="317" y="1150" width="106" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
